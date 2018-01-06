@@ -1,2 +1,4 @@
-SSL/TLSパーフェクトガイドのnginx, apache周りのメモ
+SSL/TLSパーフェクトガイドのメモ
+(nginx, apache周りのメモ)
+
 
